@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/*CCS Document */
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h3{
+    font-weight: bold;
+    background-color: burlywood;
+}
+
+
+.logotipo {
+    width: 150 px;
+    padding: 10 px 0;
+}
+
+.iconos-redes-header {
+    width: 20 px;
+    padding: 10px 5px;
+}
+.banner-video{
+    background-image: url("/images/RETRO\ VINTAGE.mp4");
+    padding: 150px 0;
+    position: relative;
+    text-align: center;
+}
+
+.banner-video video{
+    width: 50px;
+    height: 50px;
+    position: relative;
+}
+footer{
+    background-color: black;
+    padding: 80px 0;
+    text-align: center;
+}
+
+footer .logo-footer{
+    width: 150px;
+    margin-bottom: 20px;
+}
+footer p{
+    color: cornsilk;
+    font-size: 14px;
+    
+}
+
+
